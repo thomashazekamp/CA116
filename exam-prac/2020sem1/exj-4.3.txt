@@ -1,0 +1,15 @@
+4.3.1
+
+first = a = [2, 6, 5, 8, 10, 3, 8, 12]
+second = a = [2, 3, 5, 8, 10, 6, 8, 12]
+third = a = [2, 3, 5, 8, 10, 6, 8, 12]
+
+4.3.2
+
+first = [6, 12, 5, 8, 10, 3, 8, 2]
+second = [5, 6, 12, 8, 10, 3, 8, 2]
+third = [5, 6, 8, 12, 10, 3, 8, 2]
+
+4.3.3
+
+Binary search approxmately halfs each iteration resulting in a O(logn)
